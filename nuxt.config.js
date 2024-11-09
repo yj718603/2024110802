@@ -1,6 +1,7 @@
 import i18n from "./plugins/i18n.js"
 
 export default {
+  buildDir: 'nuxtout',
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'translator-app',
